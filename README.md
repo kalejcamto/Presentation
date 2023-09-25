@@ -48,7 +48,7 @@
 - 🔭 I’m currently working on developing my R and Python programming skills for data visualization and data analysis. 
 - 🌱 I’m currently getting Associate in Science degree in Cybersecurity, I am learning data analysis from cloud providers in different projects, getting a Business Intelligence College Credit Certificate at Miami Dade College and online certifications to make the best business decisions. 
 - 👯 I’m looking to collaborate on capstone A.I project or internships about Business Intelligence, Data Analytics, Cybersecurity.
-- 🤔 I’m looking for help with landing a Data Science job.
+- 🤔 I’m looking for help with landing a Data Science job or in Cybersecurity.
 - 💬 Ask me about cloud
 - 📫 How to reach me: email kalejcamto@gmail.com
 - 😄 Pronouns: if my name is Carla and you know English grammar, you know my pronoun
