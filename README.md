@@ -6,30 +6,24 @@
 - <b>Linux</b>
   - [Manage file system](https://github.com/kalejcamto/LinuxProject1)
 - <b>Vulnerability Management</b>
-  
+  - 
 - <b>Python</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-
+  - 
 - <b>SIEM search</b>
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-
+  - 
 - <b>Wireshark</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 <h2>>👨‍💻Data Sciences</h2>
 
 - <b>R programming</b>
   - [Hello World! Markdown JupyterLab and R](https://github.com/kalejcamto/JupyterLab)
-
 - <b> Data Analysis | Statistics and Modeling</b>
   - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
-
 - <b> Machine Learning</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-    
+  - 
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
-
 - <b> Tableau</b>
   - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
     
