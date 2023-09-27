@@ -27,12 +27,12 @@
 
 - <b> Machine Learning</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - 
+    
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
 - <b> Tableau</b>
-  - [Stock Market Chart Creation] (https://github.com/kalejcamto/Tableau.git)
+  - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
     
 
 <h2> 🤳 Connect with me:</h2>
