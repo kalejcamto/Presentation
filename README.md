@@ -1,12 +1,11 @@
 # Presentation (under construction)
-<h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Cybersecurity </a>, <a href="https://www.coursera.org/account-profile">Cloud Computing AWS architecture, Azure Data Engineer Associate</a>, <a href="https://www.linkedin.com/in/campos2023/">Business Intelligence | Data Science Student</a></h1>
+<h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Network Security </a>, <a href="https://www.coursera.org/account-profile">Cloud Computing AWS architecture, Azure Data Engineer Associate</a>, <a href="https://www.linkedin.com/in/campos2023/">Data Analytics | Data Science Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux</b>
   - [Manage file system](https://github.com/kalejcamto/LinuxProject1)
 - <b>Vulnerability Management</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -30,7 +29,7 @@
     
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+
 - <b> Tableau</b>
   - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
     
