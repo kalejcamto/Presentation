@@ -45,7 +45,7 @@
 - 🔭 I’m currently working on developing my skills in Data Analysis tools like PowerBI, Tableau, SQL, R and Python, as well as Splunk search queries and Wireshark queries as cybersecurity analyst. 
 - 🌱 I’m currently getting Associate in Science degree in Network Security, and took independent courses like A.I and Data Analysis from Miami Dade College.
 -     I'm proactively learning from courses like IBM Data Science course, LinkedIN Learning, AWS Skill Builder and Azure from Coursera.
--     I am getting an Enterprise Cloud Computing College Credit Certificate at Miami Dade College and working a pretty nice capstone AI, Cloud project. 
+-     I am getting an Enterprise Cloud Computing College Credit Certificate at Miami Dade College. 
 - 👯 I’m looking to collaborate on capstone A.I project or internships about Business Intelligence, Data Analytics, Cybersecurity.
 - 🤔 I’m looking for help with landing a Data Science job or in Cybersecurity.
 - 💬 Ask me about cloud
