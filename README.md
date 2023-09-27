@@ -6,13 +6,13 @@
 - <b>Linux</b>
   - [Manage file system](https://github.com/kalejcamto/LinuxProject1)
 - <b>Vulnerability Management</b>
-  - 
+  - *Coming Soon*
 - <b>Python</b>
-  - 
+  - *Coming Soon*
 - <b>SIEM search</b>
-  - 
+  - *Coming Soon*
 - <b>Wireshark</b>
-  - 
+  - *Coming Soon*
 
 <h2>>👨‍💻Data Sciences</h2>
 
@@ -21,7 +21,7 @@
 - <b> Data Analysis | Statistics and Modeling</b>
   - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
 - <b> Machine Learning</b>
-  - 
+  - *Coming soon*
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
 - <b> Tableau</b>
