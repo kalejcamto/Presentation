@@ -7,12 +7,13 @@
   - [Manage file system](https://github.com/kalejcamto/LinuxProject1)
 - <b>Vulnerability Management</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 - <b>Python</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
 - <b>SIEM search</b>
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+
 - <b>Wireshark</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
@@ -20,16 +21,19 @@
 
 - <b>R programming</b>
   - [Hello World! Markdown JupyterLab and R](https://github.com/kalejcamto/JupyterLab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+
 - <b> Data Analysis | Statistics and Modeling</b>
   - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+
 - <b> Machine Learning</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - 
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+- <b> Tableau</b>
+  - [Stock Market Chart Creation] (https://github.com/kalejcamto/Tableau.git)
+    
 
 <h2> 🤳 Connect with me:</h2>
 
