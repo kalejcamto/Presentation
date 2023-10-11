@@ -24,8 +24,15 @@
   - *Coming soon*
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
+  - [SQL Fundamentals practice](https://github.com/kalejcamto/SQL-Fundamentals)
 - <b> Tableau</b>
   - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
+
+<h2>>👨‍💻Cloud Computing</h2>
+
+- <b>Linux</b>
+  - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
+    
     
 
 <h2> 🤳 Connect with me:</h2>
