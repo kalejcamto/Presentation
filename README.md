@@ -30,7 +30,7 @@
 
 <h2>>👨‍💻Cloud Computing</h2>
 
-- <b>Linux</b>
+- <b>AWS architecture</b>
   - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
     
     
