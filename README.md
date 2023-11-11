@@ -9,14 +9,22 @@
   - *Coming Soon*
 - <b>Python</b>
   - *Coming Soon*
-- <b>SIEM search</b>
+- <b>Splunk</b>
   - *Coming Soon*
 - <b>Wireshark</b>
+  - *Coming Soon*
+- <b>Qualys PC</b>
+  - *Coming Soon*
+- <b>Nessus</b>
+  - *Coming Soon*
+- <b>Cortex XSOAR</b>
+  - *Coming Soon*
+- <b>Wuzuh</b>
   - *Coming Soon*
 
 <h2>>👨‍💻Data Sciences</h2>
 
-- <b>R programming</b>
+- <b> R programming</b>
   - [Hello World! Markdown JupyterLab and R](https://github.com/kalejcamto/JupyterLab)
 - <b> Data Analysis | Statistics and Modeling</b>
   - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
@@ -27,13 +35,18 @@
   - [SQL Fundamentals practice](https://github.com/kalejcamto/SQL-Fundamentals)
 - <b> Tableau</b>
   - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
+- <b> Deep Learning</b>
+  - *Coming Soon*
+- <b> Python</b>
 
 <h2>>👨‍💻Cloud Computing</h2>
 
 - <b>AWS architecture</b>
   - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
-    
-    
+- <b>Azure AD</b>
+  - *Coming Soon*
+- <b>AWS </b>
+  - *Coming Soon*
 
 <h2> 🤳 Connect with me:</h2>
 
