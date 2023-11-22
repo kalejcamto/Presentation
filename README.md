@@ -33,6 +33,7 @@
 - <b> SQL</b>
   - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
   - [SQL Fundamentals practice](https://github.com/kalejcamto/SQL-Fundamentals)
+  - [Database Design Project in MySQL](https://github.com/kalejcamto/Database_Design_Project/blob/main/README.md)
 - <b> Tableau</b>
   - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
 - <b> Deep Learning</b>
