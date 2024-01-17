@@ -70,7 +70,7 @@
 - 👯 I’m looking to collaborate on capstone A.I project or internships about Business Intelligence, Data Analytics, Cybersecurity.
 - 🤔 I’m looking for help with landing a Data Science job or in Cybersecurity.
 - 💬 Ask me about cloud
-- 📫 How to reach me: email kalejcamto@gmail.com
+- 📫 How to reach me: email cybersecinfoseccloud@gmail.com
 - 😄 Pronouns: if my name is Carla and you know English grammar, you know my pronoun
 - ⚡ Fun fact: I am a professional fotographer as well, I just love learning about technology.
 
