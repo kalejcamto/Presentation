@@ -2,7 +2,7 @@
 <h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Network Security </a>, 
   <a href="https://www.coursera.org/account-profile">Cloud Computing AWS architecture, 
   Azure Data Engineer Associate</a>, 
-  <a href="https://www.linkedin.com/in/campos2023/">Data Analytics Course at MDC| Data Science Student</a></h1> IBM Program in Coursera
+  <a href="https://www.linkedin.com/in/campos2023/">Data Analytics Course at MDC| Data Science IBM Program in Coursera</a></h1> 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
