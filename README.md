@@ -46,6 +46,8 @@
 
 - <b>AWS architecture</b>
   - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
+- <b>AWS Elastic Beanstalk Demo and Presentation
+  - [Lab EBS demo](https://github.com/kalejcamto/AWS-Elastic-Beanstalk/blob/fa3f2b5428581041d41b5f974e550ed228edf0b4/README.md) 
 - <b>Azure AD</b>
   - *Coming Soon*
 - <b>AWS </b>
