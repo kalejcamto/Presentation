@@ -8,7 +8,7 @@
 - <b>Vulnerability Management</b>
   - *Coming Soon*
 - <b>PoC XSS Attack
-  - [Manage file system](https://github.com/kalejcamto/Web-Application-Exploits.git)
+  - [Cross Site Scripting Attack](https://github.com/kalejcamto/Web-Application-Exploits.git)
 - <b>Python</b>
   - *Coming Soon*
 - <b>Splunk</b>
