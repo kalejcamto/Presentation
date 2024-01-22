@@ -21,7 +21,7 @@
 - <b>Qualys PC</b>
   - *Coming Soon*
 - <b>Nessus</b>
-  - *Coming Soon*
+  - [*Scanning Vulnerabilities*](https://github.com/kalejcamto/Nessus/blob/26795dac36cb063a225a3b17006a29c9d1ed263e/README.md)
 - <b>Cortex XSOAR</b>
   - *Coming Soon*
 - <b>Wuzuh</b>
