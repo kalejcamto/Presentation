@@ -58,7 +58,7 @@
 - <b>Azure AD</b>
   - *Coming Soon*
 - <b>AWS </b>
-  - [Network Elastic Load Balancer creation for autoscaling][*Coming Soon*](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
+  - [Network Elastic Load Balancer creation for autoscaling](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
