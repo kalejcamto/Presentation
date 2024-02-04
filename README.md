@@ -14,6 +14,26 @@
   - *Coming Soon*
 - <b>AWS </b>
   - [Network Elastic Load Balancer creation for autoscaling](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
+ 
+
+<h2>>👨‍💻Data Sciences</h2>
+
+- <b> R programming</b>
+  - [Hello World! Markdown JupyterLab and R](https://github.com/kalejcamto/JupyterLab)
+- <b> Data Analysis | Statistics and Modeling</b>
+  - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
+- <b> Machine Learning</b>
+  - *Coming soon*
+- <b> SQL</b>
+  - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
+  - [SQL Fundamentals practice](https://github.com/kalejcamto/SQL-Fundamentals)
+  - [Database Design Project in MySQL](https://github.com/kalejcamto/Database_Design_Project/blob/main/README.md)
+- <b> Tableau</b>
+  - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
+- <b> Deep Learning</b>
+  - *Coming Soon*
+- <b> Python</b>
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -40,23 +60,6 @@
 - <b>Wuzuh</b>
   - *Coming Soon*
 
-<h2>>👨‍💻Data Sciences</h2>
-
-- <b> R programming</b>
-  - [Hello World! Markdown JupyterLab and R](https://github.com/kalejcamto/JupyterLab)
-- <b> Data Analysis | Statistics and Modeling</b>
-  - [Inference and Modeling topic - Central Limit Theorem](https://github.com/kalejcamto/Central-Limit-Theorem)
-- <b> Machine Learning</b>
-  - *Coming soon*
-- <b> SQL</b>
-  - [SQL in Cybersecurity (Lab)](https://github.com/kalejcamto/SQLcybersecurityPractice)
-  - [SQL Fundamentals practice](https://github.com/kalejcamto/SQL-Fundamentals)
-  - [Database Design Project in MySQL](https://github.com/kalejcamto/Database_Design_Project/blob/main/README.md)
-- <b> Tableau</b>
-  - [Stock Market Chart Creation](https://github.com/kalejcamto/Tableau.git)
-- <b> Deep Learning</b>
-  - *Coming Soon*
-- <b> Python</b>
 
 <h2> 🤳 Connect with me:</h2>
 
