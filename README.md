@@ -1,8 +1,19 @@
 # INDEX 
-<h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Network Security </a>, 
-  <a href="https://www.coursera.org/account-profile">Cloud Computing AWS architecture, 
-  Azure Data Engineer Associate</a>, 
-  <a href="https://www.linkedin.com/in/campos2024/">Data Analytics Course at MDC| Data Science IBM Program in Coursera</a></h1> 
+<h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Applied Artificial Intelligence </a>, 
+<a href="https://www.linkedin.com/in/campos2024/">Data Analytics Course at MDC| Data Science IBM Program in Coursera</a></h1> 
+
+<h2>>👨‍💻Cloud Computing</h2>
+
+- <b>AWS architecture</b>
+  - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
+- <b>CHATBOX cloud solutions project for Trivera Website
+  - [Virtual Assistance Creation](https://github.com/kalejcamto/Chatbot/blob/dc918b75d1bd869f20bcc1977c8ae81eb9d6c4d4/README.md)
+- <b>AWS Elastic Beanstalk Demo and Presentation
+  - [Lab EBS demo](https://github.com/kalejcamto/AWS-Elastic-Beanstalk/blob/fa3f2b5428581041d41b5f974e550ed228edf0b4/README.md) 
+- <b>Azure AD</b>
+  - *Coming Soon*
+- <b>AWS </b>
+  - [Network Elastic Load Balancer creation for autoscaling](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -47,19 +58,6 @@
   - *Coming Soon*
 - <b> Python</b>
 
-<h2>>👨‍💻Cloud Computing</h2>
-
-- <b>AWS architecture</b>
-  - [PoC A.I. AWS design case study for Unmanned Aerial Vehicles](https://github.com/kalejcamto/Drone-AI-Cloud/blob/main/README.md)
-- <b>CHATBOX cloud solutions project for Trivera Website
-  - [Virtual Assistance Creation](https://github.com/kalejcamto/Chatbot/blob/dc918b75d1bd869f20bcc1977c8ae81eb9d6c4d4/README.md)
-- <b>AWS Elastic Beanstalk Demo and Presentation
-  - [Lab EBS demo](https://github.com/kalejcamto/AWS-Elastic-Beanstalk/blob/fa3f2b5428581041d41b5f974e550ed228edf0b4/README.md) 
-- <b>Azure AD</b>
-  - *Coming Soon*
-- <b>AWS </b>
-  - [Network Elastic Load Balancer creation for autoscaling](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
-
 <h2> 🤳 Connect with me:</h2>
 
 
@@ -69,7 +67,7 @@
 
 [twitter]: https://www.coursera.org/account-profile
 [instagram]: https://www.instagram.com/kalithamia/
-[linkedin]: https://www.linkedin.com/in/campos2023/
+[linkedin]: https://www.linkedin.com/in/campos2024/
 
 
 <h2>I Am...</h2>
