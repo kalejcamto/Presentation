@@ -1,6 +1,6 @@
 # INDEX 
 <h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Applied Artificial Intelligence </a>, 
-<a href="https://www.linkedin.com/in/campos2024/">Data Analytics Course at MDC| Data Science IBM Program in Coursera</a></h1> 
+<a href="https://www.linkedin.com/in/campos2024/">Data Analytics | Cloud Computing technologist (AWS) CCC at MDC. | Data Science IBM Program in Coursera</a></h1>
 
 <h2>>👨‍💻Cloud Computing</h2>
 
