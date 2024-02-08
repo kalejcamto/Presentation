@@ -15,7 +15,11 @@
 - <b>AWS </b>
   - [Network Elastic Load Balancer creation for autoscaling](https://github.com/kalejcamto/Elastic-Load-Balancing-ELB-/blob/54a2c6184840d80c0ebfd66affd6852b87bb9f6b/README.md)
  
+<h2>>👨‍💻Artificial Intelligence</h2>
 
+- <b> Artificial Intelligence Business Tools Index </b>
+  - [Index of useful AI powered tools for entrepreneurs or professionalg]([https://github.com/kalejcamto/JupyterLab](https://github.com/kalejcamto/AI-Business-creatives-tools
+  
 <h2>>👨‍💻Data Sciences</h2>
 
 - <b> R programming</b>
