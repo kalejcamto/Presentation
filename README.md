@@ -1,9 +1,12 @@
 # INDEX 
 <h1>Hi, I'm Carla! <br/><a href="https://www.linkedin.com/feed/update/urn:li:activity:7103969936271650816/">Associate in Science Applied Artificial Intelligence </a>, 
 <a href="https://www.linkedin.com/in/campos2024/"> | Data Analytics | Cloud Computing technologist (AWS) CCC at MDC. 
-
+.
+.
+.
+  
 <h2>>👨‍💻AI MARKETING / BRANDING PHOTOGRAPHY </h2>
-- [Small Business Customized Branding Photography and AI Marketing proposal "AI PHOTO MARKETING AS A SERVICE"- Crossfit Gym](https://github.com/kalejcamto/AI-MARKETING-01/blob/main/README.md)
+- [Small Business Customized Branding Photography and AI Marketing proposal "AI PHOTO MARKETING AS A SERVICE" Crossfit Gym](https://github.com/kalejcamto/AI-MARKETING-01/blob/main/README.md)
 
 <h2>>👨‍💻Cloud Computing</h2>
 
