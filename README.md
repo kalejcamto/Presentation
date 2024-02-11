@@ -20,6 +20,12 @@
 - <b> Artificial Intelligence Business Tools Index </b>
   - [Index of useful AI powered tools for entrepreneurs or professionals](https://github.com/kalejcamto/AI-Business-creatives-tools)
  
+
+<h2>>👨‍💻AI MARKETING / BRANDING PHOTOGRAPHY </h2>
+- <b> AI Marketing & Branding Photography </b>
+  - [AI PHOTO MARKETING AS A SERVICE for small business and startups](https://github.com/kalejcamto/AI-MARKETING-01/blob/main/README.md)
+  
+ 
   
 <h2>>👨‍💻Data Sciences</h2>
 
