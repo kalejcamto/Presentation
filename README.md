@@ -6,7 +6,7 @@
 .
   
 <h2>>👨‍💻AI MARKETING / BRANDING PHOTOGRAPHY </h2>
-- [Small Business Customized Branding Photography and AI Marketing proposal "AI PHOTO MARKETING AS A SERVICE" Crossfit Gym](https://github.com/kalejcamto/AI-MARKETING-01/blob/main/README.md)
+- [AI PHOTO MARKETING AS A SERVICE for small business and startups, Crossfit Gym](https://github.com/kalejcamto/AI-MARKETING-01/blob/main/README.md)
 
 <h2>>👨‍💻Cloud Computing</h2>
 
