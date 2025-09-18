@@ -47,6 +47,8 @@
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+*Currently working on Security+ Certification while doing Fall 2025 semester Ethical Hacking class at Network Defense and Countermeasures at MDC*
+
 
 - <b>Linux</b>
   - [Manage file system](https://github.com/kalejcamto/LinuxProject1)
