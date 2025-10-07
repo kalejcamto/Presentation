@@ -58,19 +58,20 @@
   - [Cross Site Scripting Attack](https://github.com/kalejcamto/Web-Application-Exploits.git)
 - <b>Enumeration</b>
   - I was able to: Use SuperScan for NetBIOS Enumeration
-Use Hyena for Enumeration
-Perform LDAP Enumeration using Softerra LDAP Administrator
-Perform SNMP Enumeration using IP Network Browser
-Perform DNS Enumeration
-Perform Windows Host Enumeration using Rpcclient
-Perform Linux Host Enumeration using Nmap
-Perform Website Enumeration using Nmap
-Perform Server Message Block (SMB) Enumeration
-Prevent Web Applications Enumeration
-Prevent SNMP Enumeration
-Prevent LDAP Enumeration
-Prevent DNS Enumeration
-Prevent Windows Enumeration
+- Use Hyena for Enumeration
+- Perform LDAP Enumeration using Softerra LDAP Administrator
+- Perform SNMP Enumeration using IP Network Browser
+- Perform DNS Enumeration
+- Perform Windows Host Enumeration using Rpcclient
+- Perform Linux Host Enumeration using Nmap
+- Perform Website Enumeration using Nmap
+- Perform Server Message Block (SMB) Enumeration
+- Prevent Web Applications Enumeration
+- Prevent SNMP Enumeration
+- Prevent LDAP Enumeration
+- Prevent DNS Enumeration
+- Prevent Windows Enumeration
+  
 - <b>Splunk</b>
   - *Coming Soon*
 - <b>Wireshark</b>
