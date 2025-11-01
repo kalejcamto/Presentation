@@ -57,20 +57,20 @@
 - <b>PoC XSS Attack
   - [Cross Site Scripting Attack](https://github.com/kalejcamto/Web-Application-Exploits.git)
 - <b>Enumeration</b>
-  - I was able to: Use SuperScan for NetBIOS Enumeration
- Use Hyena for Enumeration
- Perform LDAP Enumeration using Softerra LDAP Administrator
- Perform SNMP Enumeration using IP Network Browser
- Perform DNS Enumeration
- Perform Windows Host Enumeration using Rpcclient
- Perform Linux Host Enumeration using Nmap
- Perform Website Enumeration using Nmap
- Perform Server Message Block (SMB) Enumeration
- Prevent Web Applications Enumeration
- Prevent SNMP Enumeration
- Prevent LDAP Enumeration
- Prevent DNS Enumeration
- Prevent Windows Enumeration
+I was able to: Use SuperScan for NetBIOS Enumeration
+Use Hyena for Enumeration
+Perform LDAP Enumeration using Softerra LDAP Administrator
+Perform SNMP Enumeration using IP Network Browser
+Perform DNS Enumeration
+Perform Windows Host Enumeration using Rpcclient
+Perform Linux Host Enumeration using Nmap
+Perform Website Enumeration using Nmap
+Perform Server Message Block (SMB) Enumeration
+Prevent Web Applications Enumeration
+Prevent SNMP Enumeration
+Prevent LDAP Enumeration
+Prevent DNS Enumeration
+Prevent Windows Enumeration
 
 Exercise 1 - Exploiting the Webserver Vulnerabilities
 Exercise 2 - Preventing Webserver Exploitations
@@ -86,9 +86,8 @@ Check for WebDAV on a Webserver using Metasploit Framework
 Use Common Methods to Prevent Webserver Exploitation
 Disable HTTP TRACK and TRACE Verbs in Internet Information Services (IIS)
 
-The following exam objectives are covered in this lab:
  Information Security Attack Detection
- Information Security Attack Preventionc
+ Information Security Attack Prevention
  
 - <b>Splunk</b>
   - *Coming Soon*
